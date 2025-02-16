@@ -1,2 +1,1 @@
-# Astrophysics-Cosmology-Research
-позволяет создавать финансовые отчеты
+Библиотека для работы с GraphQL
